@@ -1,0 +1,19 @@
+[
+    {
+        "picture": "picture",
+        "name": "name",
+        "price": "price",
+        "currencyId": "currencyId"
+    },
+    {
+        "picture": "picture1",
+        "name": "name",
+        "price": "price",
+        "currencyId": "currencyId"
+    },{
+        "picture": "picture2",
+        "name": "name",
+        "price": "price",
+        "currencyId": "currencyId"
+    }
+]
